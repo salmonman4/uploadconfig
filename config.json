@@ -1,6 +1,6 @@
 {
   "presets": {
-    "default": {
+    "99 Nights in the Forest": {
       "GameLink": "https://www.roblox.com/games/79546208627805/99-Nights-in-the-Forest",
       "Title": "BEST script | Bring Items, Aura...",
       "ScriptCode": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/boringcat4646/Nexis-Hub/refs/heads/main/Key%20System\"))()",
