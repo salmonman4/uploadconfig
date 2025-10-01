@@ -1,0 +1,20 @@
+{
+  "presets": {
+    "default": {
+      "GameLink": "https://www.roblox.com/games/79546208627805/99-Nights-in-the-Forest",
+      "Title": "BEST script | Bring Items, Aura...",
+      "ScriptCode": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/boringcat4646/Nexis-Hub/refs/heads/main/Key%20System\"))()",
+      "Description": "The Best Script for 99 nights in the forest made by v0xx! Features: Bring Items Auto Fire Fuel Auto Cook Kill Aura Auto Chop Aura Advanced Esp Hitbox Expander Landmarks Teleport Speed & Fly Hacks Bring All Children Select where to bring Instant All Chests & More",
+      "CoverURL": "https://tr.rbxcdn.com/180DAY-643b9b9285f3bd9b63cf392db12a4d87/768/432/Image/Webp/noFilter",
+      "KeySystemURL": "https://link-target.net/1339614/MlbdnSKSz5KW"
+    },
+    "alternative": {
+      "GameLink": "https://www.roblox.com/games/79546208627805/99-Nights-in-the-Forest",
+      "Title": "Alternative Script | Enhanced Features",
+      "ScriptCode": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/boringcat4646/Nexis-Hub/refs/heads/main/Alternative%20Script\"))()",
+      "Description": "Alternative script for 99 Nights in the Forest with enhanced features and optimizations.",
+      "CoverURL": "https://tr.rbxcdn.com/180DAY-643b9b9285f3bd9b63cf392db12a4d87/768/432/Image/Webp/noFilter",
+      "KeySystemURL": "https://link-target.net/1339614/AlternativeKey"
+    }
+  }
+}
